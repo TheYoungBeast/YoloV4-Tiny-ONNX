@@ -1,6 +1,8 @@
 # YoloV4-tiny ONNX
 yolov4-tiny.onnx
 
+Download already converted (onnx) model: [Download](https://github.com/TheYoungBeast/YoloV4-Tiny-ONNX/raw/main/yolov4-tiny.onnx)
+
 ## Yolov4-tiny
 
 - cfg source: [yolov4-tiny.cfg](https://raw.githubusercontent.com/AlexeyAB/darknet/master/cfg/yolov4-tiny.cfg)
