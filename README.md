@@ -15,5 +15,5 @@ Script source: [export_onnx.py](https://github.com/linghu8812/tensorrt_inference
 ## Command
 
 ```shell
-python3 export_onnx.py --cfg_file yolov4/yolov4-tiny.cfg --weights_file yolov4/yolov4-tiny.weights --output_file yolov4-tiny.onnx
+python3 export_onnx.py --cfg_file yolov4-tiny/yolov4-tiny.cfg --weights_file yolov4-tiny/yolov4-tiny.weights --output_file yolov4-tiny/yolov4-tiny.onnx
 ```
