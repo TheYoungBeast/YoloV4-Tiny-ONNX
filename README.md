@@ -3,7 +3,7 @@ yolov4-tiny.onnx
 
 Download already converted (onnx) model: [Download yolov4-tiny.onnx](https://github.com/TheYoungBeast/YoloV4-Tiny-ONNX/raw/main/yolov4-tiny.onnx) (64 batch - default)
 
-Download already converted (onnx) model: [Download yolov4-tiny.onnx](https://github.com/TheYoungBeast/YoloV4-Tiny-ONNX/raw/main/yolov4-tiny-single-batch.onnx) (1 batch)
+Download already converted (onnx) model: [Download yolov4-tiny-single-batch.onnx](https://github.com/TheYoungBeast/YoloV4-Tiny-ONNX/raw/main/yolov4-tiny-single-batch.onnx) (1 batch, cfg modified)
 
 ## Yolov4-tiny
 
